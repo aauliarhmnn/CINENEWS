@@ -1,0 +1,12 @@
+class Env {
+  Env._();
+
+  static const String baseUrl =
+      String.fromEnvironment('GNEWS_BASE_URL');
+
+  static const String apiKey =
+      String.fromEnvironment('GNEWS_API_KEY');
+
+  static bool get lengkap =>
+      baseUrl.isNotEmpty && apiKey.isNotEmpty;
+}
