@@ -55,23 +55,27 @@ lib/
 
 ## Screenshot Aplikasi
 
+
+## Screenshot Aplikasi
+
 ### Halaman Utama
-![Halaman Utama](screenshots/01_home.png)
+![Halaman Utama](screenshots/home.png)
 
 ### Kategori Berita
-![Kategori Berita](screenshots/02_kategori.png)
+![Kategori Berita](screenshots/kategori.png)
 
 ### Pencarian
-![Pencarian](screenshots/03_pencarian.png)
+![Pencarian](screenshots/pencarian.png)
 
 ### Hasil Pencarian
-![Hasil Pencarian](screenshots/04_hasil_pencarian.png)
+![Hasil Pencarian](screenshots/hasil_pencarian.png)
 
 ### Detail Berita
-![Detail Berita](screenshots/05_detail_berita.png)
+![Detail Berita](screenshots/detail_berita.png)
 
 ### Artikel Asli
-![Artikel Asli](screenshots/06_artikel_asli.png)
+![Artikel Asli](screenshots/artikel_asli.png)
+
 
 ## Cara Menjalankan Aplikasi
 
